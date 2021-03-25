@@ -1,1 +1,3 @@
-welcome to azure Github better together training 
+Good morning everyone 
+
+Welcome to azure Github better together training 
